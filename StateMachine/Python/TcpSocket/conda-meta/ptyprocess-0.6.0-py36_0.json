@@ -1,0 +1,108 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "/miniconda3/pkgs/ptyprocess-0.6.0-py36_0",
+  "features": "",
+  "files": [
+    "lib/python3.6/site-packages/ptyprocess-0.6.0-py3.6.egg-info",
+    "lib/python3.6/site-packages/ptyprocess/__init__.py",
+    "lib/python3.6/site-packages/ptyprocess/__pycache__/__init__.cpython-36.pyc",
+    "lib/python3.6/site-packages/ptyprocess/__pycache__/_fork_pty.cpython-36.pyc",
+    "lib/python3.6/site-packages/ptyprocess/__pycache__/ptyprocess.cpython-36.pyc",
+    "lib/python3.6/site-packages/ptyprocess/__pycache__/util.cpython-36.pyc",
+    "lib/python3.6/site-packages/ptyprocess/_fork_pty.py",
+    "lib/python3.6/site-packages/ptyprocess/ptyprocess.py",
+    "lib/python3.6/site-packages/ptyprocess/util.py"
+  ],
+  "fn": "ptyprocess-0.6.0-py36_0.tar.bz2",
+  "license": "ISC",
+  "link": {
+    "source": "/miniconda3/pkgs/ptyprocess-0.6.0-py36_0",
+    "type": 1
+  },
+  "md5": "e5ed1afcaf48aea6e3b62c6a1ed521d3",
+  "name": "ptyprocess",
+  "package_tarball_full_path": "/miniconda3/pkgs/ptyprocess-0.6.0-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess-0.6.0-py3.6.egg-info",
+        "path_type": "hardlink",
+        "sha256": "269fecd2a017a5d268840d92dc14ac8f28ac08c9f6088c0c021a44696d4e3909",
+        "sha256_in_prefix": "269fecd2a017a5d268840d92dc14ac8f28ac08c9f6088c0c021a44696d4e3909",
+        "size_in_bytes": 264
+      },
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "43b09ddf55530a415683828f1ea67be7290e43b923e64ba8fadce4a8ecfcb2ea",
+        "sha256_in_prefix": "43b09ddf55530a415683828f1ea67be7290e43b923e64ba8fadce4a8ecfcb2ea",
+        "size_in_bytes": 138
+      },
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "a4f809bceee3023ad9cbd155e53a93616c08134bd57eecf390eeaaf3a32ec1f1",
+        "sha256_in_prefix": "a4f809bceee3023ad9cbd155e53a93616c08134bd57eecf390eeaaf3a32ec1f1",
+        "size_in_bytes": 312
+      },
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess/__pycache__/_fork_pty.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "b2d3f7e0cb87c0c9724019df19d264b81b46f6f76469fc3ae85d0cd0a721ea12",
+        "sha256_in_prefix": "b2d3f7e0cb87c0c9724019df19d264b81b46f6f76469fc3ae85d0cd0a721ea12",
+        "size_in_bytes": 1951
+      },
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess/__pycache__/ptyprocess.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "f5d82508765963efbd100c55b0697a340c2b098bc0bf84ab0fa9fec5306caa89",
+        "sha256_in_prefix": "f5d82508765963efbd100c55b0697a340c2b098bc0bf84ab0fa9fec5306caa89",
+        "size_in_bytes": 23984
+      },
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess/__pycache__/util.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed031dbd2aeec6141024dcffaa8aa7761065684a3cb2ef2e760de5feb317aec7",
+        "sha256_in_prefix": "ed031dbd2aeec6141024dcffaa8aa7761065684a3cb2ef2e760de5feb317aec7",
+        "size_in_bytes": 1952
+      },
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess/_fork_pty.py",
+        "path_type": "hardlink",
+        "sha256": "555bcccbc7386698c332220c4a0f13d414358374817b10e97b2fdcc62d27e5ac",
+        "sha256_in_prefix": "555bcccbc7386698c332220c4a0f13d414358374817b10e97b2fdcc62d27e5ac",
+        "size_in_bytes": 2362
+      },
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess/ptyprocess.py",
+        "path_type": "hardlink",
+        "sha256": "ac3ff556e5b4d87c7007884f226e9c6a1e571b1ee91e3f10698cf93a1097c1fe",
+        "sha256_in_prefix": "ac3ff556e5b4d87c7007884f226e9c6a1e571b1ee91e3f10698cf93a1097c1fe",
+        "size_in_bytes": 31355
+      },
+      {
+        "_path": "lib/python3.6/site-packages/ptyprocess/util.py",
+        "path_type": "hardlink",
+        "sha256": "ad001d0d165fa0e88e9fabf2916b61d3023a145280a7b689b4149db7e28159d5",
+        "sha256_in_prefix": "ad001d0d165fa0e88e9fabf2916b61d3023a145280a7b689b4149db7e28159d5",
+        "size_in_bytes": 2785
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 23091,
+  "subdir": "osx-64",
+  "timestamp": 1529941133999,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/ptyprocess-0.6.0-py36_0.tar.bz2",
+  "version": "0.6.0"
+}
